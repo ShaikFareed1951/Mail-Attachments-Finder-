@@ -2,7 +2,7 @@
 you will need to provide an app password to log in to your account programmatically. 
  An app password is a unique code that allows a specific application to access your email account without requiring you to enter your full password. Here's how to generate an app password:
 
-   1. Go to your email account's security settings. This may be found in the account settings, security settings, or account security settings.
+  1. Go to your email account's security settings. This may be found in the account settings, security settings, or account security settings.
 
    2.Look for the option to manage app passwords. This may be called "App Passwords," "Third-party App Passwords," or something similar.
 
@@ -44,13 +44,13 @@ Here's an explanation of each part of the code:
     
     # example of how the code would run:
     
-Enter your Gmail address: example@gmail.com
-Enter your Gmail password: ********
-Enter the target Gmail address: target@gmail.com
-Attachments:
-attachment1.pdf
-attachment2.jpg
-attachment3.docx
+   Enter your Gmail address: example@gmail.com
+   Enter your Gmail password: ********
+   Enter the target Gmail address: target@gmail.com
+   Attachments:
+   attachment1.pdf
+   attachment2.jpg
+   attachment3.docx
       In this example, the user is prompted to enter their Gmail address, password, and the target email address. The code logs in to the Gmail account using the provided email address and password and then fetches all the emails from the target email address. Finally, it displays the attachments of all the emails fetched.
     
     
