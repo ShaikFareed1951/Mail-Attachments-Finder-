@@ -42,7 +42,7 @@ Here's an explanation of each part of the code:
 
     12.display_attachments(mail, target_email_address): This line calls the display_attachments() function and passes the mail object and the target_email_address variable as parameters.
     
-# example of how the code would run:
+# Example of how the code would run:
     
       Enter your Gmail address: example@gmail.com
       Enter your Gmail password: ********
