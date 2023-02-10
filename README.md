@@ -2,13 +2,13 @@
 you will need to provide an app password to log in to your account programmatically. 
  An app password is a unique code that allows a specific application to access your email account without requiring you to enter your full password. Here's how to generate an app password:
 
-  1. Go to your email account's security settings. This may be found in the account settings, security settings, or account security settings.
+    1. Go to your email account's security settings. This may be found in the account settings, security settings, or account   security settings.
 
-   2.Look for the option to manage app passwords. This may be called "App Passwords," "Third-party App Passwords," or something similar.
+    2.Look for the option to manage app passwords. This may be called "App Passwords," "Third-party App Passwords," or something similar.
 
-   3.Follow the steps to generate an app password. Some email providers allow you to generate a specific password for a specific app, while others provide a single password that can be used with multiple apps.
+    3.Follow the steps to generate an app password. Some email providers allow you to generate a specific password for a specific app, while others provide a single password that can be used with multiple apps.
 
-   4.Use the app password in place of your regular password when logging in to your email account programmatically.
+    4.Use the app password in place of your regular password when logging in to your email account programmatically.
 
 Note: The steps to generate an app password may vary depending on your email provider. If you are having trouble generating an app password, consult your email provider's documentation or support resources for more information.
 
