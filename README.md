@@ -42,15 +42,16 @@ Here's an explanation of each part of the code:
 
     12.display_attachments(mail, target_email_address): This line calls the display_attachments() function and passes the mail object and the target_email_address variable as parameters.
     
-    # example of how the code would run:
+# example of how the code would run:
     
-   Enter your Gmail address: example@gmail.com
-   Enter your Gmail password: ********
-   Enter the target Gmail address: target@gmail.com
-   Attachments:
-   attachment1.pdf
-   attachment2.jpg
-   attachment3.docx
+      Enter your Gmail address: example@gmail.com
+      Enter your Gmail password: ********
+      Enter the target Gmail address: target@gmail.com
+      Attachments:
+      attachment1.pdf
+      attachment2.jpg
+      attachment3.docx
+
       In this example, the user is prompted to enter their Gmail address, password, and the target email address. The code logs in to the Gmail account using the provided email address and password and then fetches all the emails from the target email address. Finally, it displays the attachments of all the emails fetched.
     
     
