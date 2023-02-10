@@ -52,7 +52,7 @@ Here's an explanation of each part of the code:
       attachment2.jpg
       attachment3.docx
 
-      In this example, the user is prompted to enter their Gmail address, password, and the target email address. The code logs in to the Gmail account using the provided email address and password and then fetches all the emails from the target email address. Finally, it displays the attachments of all the emails fetched.
+   In this example, the user is prompted to enter their Gmail address, password, and the target email address. The code logs in to the Gmail account using the provided email address and password and then fetches all the emails from the target email address. Finally, it displays the attachments of all the emails fetched.
     
     
     
